@@ -1,6 +1,8 @@
 package Week_02_02_03mar2019.___rozw_zad_instruktorskie.weekend2.encapsulation.task;
 
-import pl.sda.tasks.weekend2.encapsulation.task.items.ItemModel;
+//import pl.sda.tasks.weekend2.encapsulation.task.items.ItemModel;
+
+import Week_02_02_03mar2019.___rozw_zad_instruktorskie.weekend2.encapsulation.task.items.ItemModel;
 
 import java.util.ArrayList;
 import java.util.List;

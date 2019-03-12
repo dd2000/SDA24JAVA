@@ -1,14 +1,18 @@
 package Week_02_02_03mar2019.___rozw_zad_instruktorskie.weekend2.encapsulation.task;
 
-import pl.sda.tasks.weekend2.encapsulation.task.items.ItemManager;
-import pl.sda.tasks.weekend2.encapsulation.task.items.ItemModel;
-import pl.sda.tasks.weekend2.encapsulation.task.users.UserManager;
+//import pl.sda.tasks.weekend2.encapsulation.task.items.ItemManager;
+//import pl.sda.tasks.weekend2.encapsulation.task.items.ItemModel;
+//import pl.sda.tasks.weekend2.encapsulation.task.users.UserManager;
 
 /**
  * 3. W repozytorium kodu, w pakiecie encapsulation znajduje się kolejny pakiet nazwany task, gdzie jest kilka klas,
  *    które należy uporządkować i utworzyć dla nich odpowiednie pakiety.
  *    To Twoje zadanie. Działaj wyłącznie w obrębie pakietu task.
  */
+
+import Week_02_02_03mar2019.___rozw_zad_instruktorskie.weekend2.encapsulation.task.items.ItemManager;
+import Week_02_02_03mar2019.___rozw_zad_instruktorskie.weekend2.encapsulation.task.items.ItemModel;
+import Week_02_02_03mar2019.___rozw_zad_instruktorskie.weekend2.encapsulation.task.users.UserManager;
 
 /**
  * 4. W klasach, które właśnie zostały uporządkowane ktoś popełnił błędy i nie zadbał o prawidłową hermetyzację danych oraz modyfikatory dostępu.
