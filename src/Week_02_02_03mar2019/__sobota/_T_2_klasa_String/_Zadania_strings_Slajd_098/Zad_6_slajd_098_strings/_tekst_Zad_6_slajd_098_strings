@@ -1,0 +1,4 @@
+6. Napisz metodę, która jako argumenty będzie przyjmować dwie zmienne typu String
+   i zwróci true jeżeli 3 ostatnie znaki w obu tekstach są takie same.
+
+

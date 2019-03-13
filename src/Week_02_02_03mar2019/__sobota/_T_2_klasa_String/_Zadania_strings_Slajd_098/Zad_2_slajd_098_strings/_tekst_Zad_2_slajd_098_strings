@@ -1,0 +1,2 @@
+2. Napisz metodę, która zwróci tekst: “Simon says: [{text}]”, gdzie {text} - to argument metody.
+   Użyj konkatenacji lub StringBuildera.

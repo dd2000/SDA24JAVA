@@ -1,0 +1,11 @@
+4. * W klasach, które właśnie zostały uporządkowane
+   ktoś popełnił błędy i nie zadbał o prawidłową hermetyzację danych
+   oraz modyfikatory dostępu.
+   Przejrzyj klasy i postaraj się, by kod był zgodny z tym,
+   co było powiedziane na zajęciach - przeprojektuj klasy,
+    by spełniały zasady hermetyzacji,
+    a przy tym udostępniały do "świata zewnętrznego" tylko potrzebne API.
+    Zadbaj o prawidłowe użycie danych.
+    Utwórz przykłady użycia w klasie OnlineShop.
+    Sprawdź, czy Twój kod jest odporny na błędy.
+

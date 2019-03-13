@@ -1,0 +1,5 @@
+5. * Utwórz klasę, która będzie zapewniać API do zarządzania sklepem:
+   użytkownik dodaje wybrane przedmioty w zadanej ilości do swojego koszyka,
+   a następnie dokonuje zakupu.
+   Wykonywane operacje powinny być wyświetlane na konsoli.
+   Zadbaj o odpowiednią hermetyzację swojego API oraz właściwe modyfikatory dostępu.

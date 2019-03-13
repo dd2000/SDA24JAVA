@@ -1,0 +1,4 @@
+3. Napisz metodę, która jako argument otrzyma jedną zmienną typu String,
+   usunie z niej białe znaki z początku i końca tekstu oraz zamieni wszystkie litery na małe.
+
+
