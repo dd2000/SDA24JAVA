@@ -1,4 +1,4 @@
-package Week_01_23_24_lut2019._niedz._T_1_OOP._Zadania_OOP_slajdy_065_071;
+package Week_01_23_24_lut2019._niedz._T_1_OOP._Zadania_OOP_slajdy_065_074;
 
 public class _opis_get_set_Animal {
     // pola (właściwości)

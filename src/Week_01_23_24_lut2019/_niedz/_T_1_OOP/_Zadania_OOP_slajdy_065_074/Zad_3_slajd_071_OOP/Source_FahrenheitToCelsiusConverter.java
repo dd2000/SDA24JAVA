@@ -1,4 +1,4 @@
-package Week_01_23_24_lut2019._niedz._T_1_OOP._Zadania_OOP_slajdy_065_071.Zad_2_slajd_071_OOP;
+package Week_01_23_24_lut2019._niedz._T_1_OOP._Zadania_OOP_slajdy_065_074.Zad_3_slajd_071_OOP;
 
 public class Source_FahrenheitToCelsiusConverter {
 /*
