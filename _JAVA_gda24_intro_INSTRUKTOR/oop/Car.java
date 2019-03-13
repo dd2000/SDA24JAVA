@@ -40,7 +40,7 @@ public class Car {
 
     public void start() {
         isMoving = true;
-        System.out.println("Car was started!");
+        System.out.println("Source_Car was started!");
     }
 
     public void setBrand(String brand) {
@@ -49,7 +49,7 @@ public class Car {
 
 //    @Override
 //    public String toString() {
-//        return "Car{" +
+//        return "Source_Car{" +
 //                "brand='" + brand + '\'' +
 //                ", color='" + color + '\'' +
 //                ", speed=" + speed +

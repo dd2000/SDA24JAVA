@@ -1,10 +1,10 @@
 package Week_02_02_03mar2019.___rozw_zad_instruktorskie.weekend2.coinpo.carentertainment;
 
 /**
- * Rozwiń przykład kompozycji w oparciu o klasę Car - dodaj klasę Entertainment,
+ * Rozwiń przykład kompozycji w oparciu o klasę Source_Car - dodaj klasę Entertainment,
  * która zarządzać będzie systemem rozrywki w Twoim samochodzie, a następnie zadbaj o to,
- * by tworząc obiekt typu Car konieczne było podanie obiektu typu Entertainment.
- * Klasa Car powinna wykorzystywać metody dostępne w klasie Entertainment.
+ * by tworząc obiekt typu Source_Car konieczne było podanie obiektu typu Entertainment.
+ * Klasa Source_Car powinna wykorzystywać metody dostępne w klasie Entertainment.
  */
 public class CompositionExample {
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class CompositionExample {
 
         Car car = new Car("Toyota", engine, entertainment);
         System.out.println(car);
-        System.out.println("Car is: " + car.getType());
+        System.out.println("Source_Car is: " + car.getType());
         System.out.println("Is smth playing? " + car.isPlaying());
 
         car.enable(EntertainmentType.RADIO);

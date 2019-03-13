@@ -1,6 +1,6 @@
 package Week_01_23_24_lut2019.___rozw_zad_instruktorskie.weekend1.oop;
 
-// Utwórz klasę Car z polami: brand i color
+// Utwórz klasę Source_Car z polami: brand i color
 // {na katalogu}(Alt + Insert → Java Class lub PPM → New →  Java Class)
 //
 // Dodaj konstruktor i oba pola jako argumenty
@@ -19,7 +19,7 @@ public class Car {
 
     @Override
     public String toString() {
-        return "Car{" +
+        return "Source_Car{" +
                 "brand='" + brand + '\'' +
                 ", color='" + color + '\'' +
                 '}';

@@ -132,24 +132,24 @@ public class CollectionsExamples {
 //        }
 
         // iteracja po wartosciach
-//        Collection<List<Car>> values = cars.values();
-//        for (List<Car> carList : values) {
+//        Collection<List<Source_Car>> values = cars.values();
+//        for (List<Source_Car> carList : values) {
 //            System.out.println(carList);
 //        }
 
         // iteracja zarowno po kluczu jak i wartosci
-//        Set<Map.Entry<CarBrand, List<Car>>> entries = cars.entrySet();
-//        for (Map.Entry<CarBrand, List<Car>> entry : entries) {
+//        Set<Map.Entry<CarBrand, List<Source_Car>>> entries = cars.entrySet();
+//        for (Map.Entry<CarBrand, List<Source_Car>> entry : entries) {
 //            CarBrand carBrand = entry.getKey();
-//            List<Car> carsList = entry.getValue();
+//            List<Source_Car> carsList = entry.getValue();
 //            System.out.println(carBrand + ": " + carsList);
 //        }
 
-//        System.out.println("Car map size: " + cars.size());
-//        System.out.println("Car map isEmpty: " + cars.isEmpty());
-//        System.out.println("Car map get: " + cars.get(new CarBrand("TESLA")));
-//        System.out.println("Car map contains key: " + cars.containsKey(new CarBrand("TOYOTA")));
-//        System.out.println("Car map contains value: " + cars.containsValue(teslaCars));
+//        System.out.println("Source_Car map size: " + cars.size());
+//        System.out.println("Source_Car map isEmpty: " + cars.isEmpty());
+//        System.out.println("Source_Car map get: " + cars.get(new CarBrand("TESLA")));
+//        System.out.println("Source_Car map contains key: " + cars.containsKey(new CarBrand("TOYOTA")));
+//        System.out.println("Source_Car map contains value: " + cars.containsValue(teslaCars));
 
         Map<CarBrand, List<Car>> sortedCars = new TreeMap<>();
         sortedCars.putAll(cars);
@@ -167,29 +167,29 @@ public class CollectionsExamples {
         queue.addFirst(new Car("Auris"));
         queue.addLast(new Car("Yaris"));
 
-        System.out.println("Car queue size: " + queue.size());
-        System.out.println("Car queue isEmpty: " + queue.isEmpty());
-        System.out.println("Car queue, first element: " + queue.getFirst());
-        System.out.println("Car queue, first element: " + queue.element());
-        System.out.println("Car queue, first element: " + queue.peek());
-        System.out.println("Car queue, first element: " + queue.peekFirst());
-        System.out.println("Car queue, last element: " + queue.getLast());
-        System.out.println("Car queue, last element: " + queue.peekLast());
-        System.out.println("Car queue, contains `Yaris`?" + queue.contains(new Car("Yaris")));
+        System.out.println("Source_Car queue size: " + queue.size());
+        System.out.println("Source_Car queue isEmpty: " + queue.isEmpty());
+        System.out.println("Source_Car queue, first element: " + queue.getFirst());
+        System.out.println("Source_Car queue, first element: " + queue.element());
+        System.out.println("Source_Car queue, first element: " + queue.peek());
+        System.out.println("Source_Car queue, first element: " + queue.peekFirst());
+        System.out.println("Source_Car queue, last element: " + queue.getLast());
+        System.out.println("Source_Car queue, last element: " + queue.peekLast());
+        System.out.println("Source_Car queue, contains `Yaris`?" + queue.contains(new Car("Yaris")));
 
         queue.push(new Car("Focus"));
-        System.out.println("Car queue size: " + queue.size());
+        System.out.println("Source_Car queue size: " + queue.size());
         System.out.println(queue.pop());
-        System.out.println("Car queue size: " + queue.size());
+        System.out.println("Source_Car queue size: " + queue.size());
 
         System.out.println(queue.poll());
-        System.out.println("Car queue size: " + queue.size());
+        System.out.println("Source_Car queue size: " + queue.size());
 
         System.out.println(queue.pollFirst());
-        System.out.println("Car queue size: " + queue.size());
+        System.out.println("Source_Car queue size: " + queue.size());
 
         System.out.println(queue.pollLast());
-        System.out.println("Car queue size: " + queue.size());
+        System.out.println("Source_Car queue size: " + queue.size());
     }
 
     private static void arraysAndCollections() {

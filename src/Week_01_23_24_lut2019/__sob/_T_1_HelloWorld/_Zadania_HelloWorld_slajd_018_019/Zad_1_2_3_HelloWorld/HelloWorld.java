@@ -1,7 +1,7 @@
 package Week_01_23_24_lut2019.__sob._T_1_HelloWorld._Zadania_HelloWorld_slajd_018_019.Zad_1_2_3_HelloWorld;
 
 /*
-    1. Zmodyfikuj klasę HelloWorldApp, tak by wyprowadzała na konsolę
+    1. Zmodyfikuj klasę Source_HelloWorldApp, tak by wyprowadzała na konsolę
        różne napisy, np.:
          a) Twoje imię i nazwisko
          b) W jednym wierszu napis "Witaj", w następnym imię, itp.

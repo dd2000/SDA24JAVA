@@ -3,14 +3,14 @@ package pl.sda._JAVA_gda24_intro.oop;
 public class CarManager {
 
     public static void main(String[] args) {
-//        Car car;  // = null
-//        car = new Car();
+//        Source_Car car;  // = null
+//        car = new Source_Car();
 
 //        System.out.println(car);
 
         Car car1 = new Car("Toyota", "white");
         Car car2 = new Car("BMW", "black");
-//        Car car3 = new Car("black");
+//        Source_Car car3 = new Source_Car("black");
 
 //        System.out.println(car1);
 //        System.out.println(car2);

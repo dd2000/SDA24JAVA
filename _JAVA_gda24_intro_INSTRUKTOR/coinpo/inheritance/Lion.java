@@ -1,6 +1,6 @@
 //package pl.sda._JAVA_gda24_intro.coinpo.inheritance;
 //
-//public class Lion extends Animal {
+//public class Lion extends _opis_get_set_Animal {
 //    private int dailyMeetDemand;
 //
 ////    public Lion(String name, int dailyMeetDemand) {

@@ -1,0 +1,34 @@
+Instrukcja tworzenia nowej klasy: Slajd 075
+    https://goo.gl/NSmFTP  SDA01D_Create new class - 3 ways.mp4
+
+a) Kontrakt, sposób pracy:  slajdy 045-047
+
+b) Polecana literatura, dodatkowe ćwiczenia (linki),
+    dodatkowe kursy (linki)     slajdy 048-050
+
+c) OOP = Object Oriented Programming
+   klasa, obiekt, stan, zachowanie
+   a) Java - ćwiczenie - zadanie wstępne - slajd 056
+   b) Stan i zachowanie obiektu
+   c) Metoda - kod (ciało metody)
+   d) Metody dostępowe (gettery / settery)
+   e) Konstruktor
+   f) Kod (schemat) klasy
+   g) Obiekty - tworzenie i używanie
+   h) (*)Zadania 1-6 - ćwiczenie: tworzenie obiektu - slajd 065
+
+d) Referencja, typ referencyjny
+    Przykłady w kodzie: pl.sda.oop.PrimitivesVsReferences
+
+e) Metody - przekazywanie przez wartość
+
+f) Klasy opakowujące (ang. wrapper)
+    Przykłady w kodzie: pl.sda.datatypes.Wrappers
+
+g) Zadania - #OOP   Slajd 071
+
+h) JavaFx - Hello World!
+
+i) Zadania - #helloworld - JavaFX
+
+

@@ -55,7 +55,7 @@ public class Animal {
 
     @Override
     public String toString() {
-        return "Animal{" +
+        return "_opis_get_set_Animal{" +
                 "genre='" + genre + '\'' +
                 ", color='" + color + '\'' +
                 ", age=" + age +

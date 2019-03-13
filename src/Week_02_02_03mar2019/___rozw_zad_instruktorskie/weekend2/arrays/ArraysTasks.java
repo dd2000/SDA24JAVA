@@ -169,8 +169,8 @@ public class ArraysTasks {
         printDoubles(doubles);
     }
 
-    // Napisz metodę, która jako parametr przyjmuje zmienną typu Car[]
-    // (klasę Car powinieneś mieć utworzoną w ramach poprzednich zadań)
+    // Napisz metodę, która jako parametr przyjmuje zmienną typu Source_Car[]
+    // (klasę Source_Car powinieneś mieć utworzoną w ramach poprzednich zadań)
     // i zwróci tablicę z odwróconą kolejnością elementów.
     private Car[] reverseArrayOfCars(Car[] cars) {
         Car[] result = new Car[cars.length];

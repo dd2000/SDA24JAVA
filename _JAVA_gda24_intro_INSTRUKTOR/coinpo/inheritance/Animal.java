@@ -8,7 +8,7 @@ public class Animal {
         this(name, 10);     // 2
 //        this.name = name;
 //        this.age = 10;
-        System.out.println("Animal was created!"); // 7
+        System.out.println("_opis_get_set_Animal was created!"); // 7
     } // 8
 
     public Animal(String name, int age) { // 3
@@ -16,7 +16,7 @@ public class Animal {
         this.age = age;   // 5
     } // 6
 
-    //    public Animal(String name) {
+    //    public _opis_get_set_Animal(String name) {
 //        this.name = name;
 //    }
 
@@ -29,20 +29,20 @@ public class Animal {
     }
 
     public void move() {
-        System.out.println("Animal is moving!");
+        System.out.println("_opis_get_set_Animal is moving!");
     }
 
     public void move(int speed) {
-        System.out.println("Animal is moving, speed: " + speed + "!");
+        System.out.println("_opis_get_set_Animal is moving, speed: " + speed + "!");
     }
 
     public void move(String destination) {
-        System.out.println("Animal is moving, destination: " + destination + "!");
+        System.out.println("_opis_get_set_Animal is moving, destination: " + destination + "!");
     }
 
     @Override
     public String toString() {
-        return "Animal{" +
+        return "_opis_get_set_Animal{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
                 '}';
