@@ -1,0 +1,2 @@
+3. Do enum Currency dodaj pole oznaczające symbol waluty: "PLN", "USD" itp.,
+   a do Operation reprezentację tekstową: "+", "-" itp

@@ -1,0 +1,3 @@
+1. Utwórz enum Currency, który ma reprezentować walutę.
+   Ograniczmy się do 5 walut: polski złoty, dolar, euro, jen, funt brytyjski.
+

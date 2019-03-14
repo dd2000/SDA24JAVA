@@ -1,0 +1,3 @@
+5. Do enum Currency dodaj pole oznaczające kurs waluty (w stosunku do polskiego złotego)
+   oraz metodę która wyliczy wartość podanej kwoty w obcej walucie (np.: 100 zł -> 30 euro)
+

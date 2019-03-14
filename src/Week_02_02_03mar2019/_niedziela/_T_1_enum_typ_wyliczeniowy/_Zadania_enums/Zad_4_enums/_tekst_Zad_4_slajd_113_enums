@@ -1,0 +1,4 @@
+4. Dodaj do enum Operation metodę calculate(double a, double b),
+   która dla dwóch podanych liczb wykona odpowiednią operację matematyczną
+   oraz wyświetli jej wywołanie w "ładny" sposób na konsoli.
+   Zadbaj o przykład użycia i wykonanie kilku operacji matematycznych.
