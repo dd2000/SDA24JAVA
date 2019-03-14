@@ -1,0 +1,5 @@
+
+4. (*) Dodaj do klasy Math statyczne klasy wewnętrzne i zadbaj o odpowiedni podział metod.
+   Przykład: Operation [multiply, divide, add, minus], Compare [min, max]
+   Zmodyfikuj swoje przykłady użycia.
+

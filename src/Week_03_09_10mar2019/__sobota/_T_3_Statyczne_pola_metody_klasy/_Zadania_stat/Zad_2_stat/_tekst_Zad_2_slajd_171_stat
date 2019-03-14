@@ -1,0 +1,5 @@
+
+2. Dodaj do klasy Math statyczną stałą PI = 3,14,
+   a następnie dodaj metodę do wyliczania pola koła.
+   W przykładzie użycia oblicz pole koła o promieniu: 8.
+

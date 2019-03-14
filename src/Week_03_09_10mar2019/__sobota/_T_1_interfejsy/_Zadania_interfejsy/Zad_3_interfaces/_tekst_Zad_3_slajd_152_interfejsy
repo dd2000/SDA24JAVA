@@ -1,0 +1,4 @@
+3. Utwórz kolejne interfejsy:
+a) Flyable z sygnaturą metody fly()
+b) Swimmable z sygnaturą metody swim()
+

@@ -1,0 +1,3 @@
+4. Napisz metodę, która będzie przyjmować imiona od użytkownika,
+   a wprowadzenie znaku "q" przerwie jej działanie
+   i wyświetli wszystkie unikalne imiona dodane do kolekcji.

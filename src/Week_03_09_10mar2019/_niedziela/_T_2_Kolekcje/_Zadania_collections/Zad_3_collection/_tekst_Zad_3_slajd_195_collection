@@ -1,0 +1,5 @@
+3. Napisz klasę o nazwie Person,
+   która będzie zawierać pola: firstName i lastName.
+   Klasa powinna implementować interfejs Comparable.
+   Następnie utwórz kolekcję i dodaj do niej kilka obiektów klasy Person.
+   Kolekcja powinna sortować alfabetycznie wszystkie dodawane elementy.

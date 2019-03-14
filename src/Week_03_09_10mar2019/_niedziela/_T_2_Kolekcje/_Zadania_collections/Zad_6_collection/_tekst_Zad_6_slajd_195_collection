@@ -1,0 +1,5 @@
+6. (*) Rozszerz klasę Car z przykładu i dodaj do niej pola opisujące własności samochodu.
+   Utwórz kolekcję samochodów możliwych do kupna (przynajmniej 10 pozycji).
+   Następnie napisz program pozwalający użytkownikowi na przeszukiwanie kolekcji
+   na podstawie podawanych parametrów.
+   Wynikiem powinna być lista dostępnych pojazdów.

@@ -1,0 +1,2 @@
+7. (*) Napisz klasę Account, która będzie zawierać metodę: withdraw() w celu podjęcia środków.
+   Metoda powinna obsługiwać przypadek niedostatecznej ilości środków na koncie za pomocą wyjątku.

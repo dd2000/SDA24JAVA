@@ -1,0 +1,20 @@
+1. Data i czas - Date i Calendar
+
+2. Data i czas - formatowanie
+    Przykłady w kodzie: pl.sda.datetime.DateAndCalendarExamples
+
+3. String - formatowanie
+    Przykłady w kodzie: pl.sda.strings.StringFormats
+
+4. Data i czas -  problemy z Date i Calendar
+
+5. Data i czas -  java.time.* - klasy bez określonej strefy czasowej
+    Przykłady w kodzie: pl.sda.datetime.LocalDateTimeExamples
+
+6. Data i czas -  java.time.* - klasy z określoną strefą czasową
+    Przykłady w kodzie: pl.sda.datetime.ZoneDataAndTimeExamples
+
+7. Data i czas -  java.time.* - klasy pomocnicze, odstępy czasowe
+    Przykłady w kodzie: pl.sda.datetime.PeriodAndDurationExamples
+
+8. Zadania   #datetime      Slajd: 163

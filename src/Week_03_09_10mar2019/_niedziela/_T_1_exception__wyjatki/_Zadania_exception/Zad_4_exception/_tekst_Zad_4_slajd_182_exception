@@ -1,0 +1,4 @@
+4. Napisz program, który przyjmie od użytkownika ciąg liczb oddzielonych spacją.
+   Następnie obliczy sumę podanych liczb i wyświetli ją na ekranie.
+   Dodaj obsługę wyjątków w taki sposób, by na ekranie zawsze pojawiła się odpowiedź
+   - samodzielnie znajdź możliwe do wystąpienia wyjątki.

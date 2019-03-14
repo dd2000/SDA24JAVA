@@ -1,18 +1,6 @@
-Zadania wprowadzające: slajd 18+slajd 19
+1. Interfejsy - definicje
 
-a) historia JAVA
+2. Interfejsy - przykład użycia
+    Pełny kod: pl.sda.interfaces.Figures
 
-b) Instrukcja tworzenia nowego projektu IntelliJ:
-    http://goo.gl/zdZP2N    plik: Create new project IntelliJ.pdf
-
-c) Instrukcja tworzenia i uruchomienia projektu HelloWorld :
-    https://goo.gl/bMF3Jv   plik: SDA01A_Create new project.mp4
-
-d) Zadania  #helloworld  => Slajd 18
-
-e) Git + GitHub - wprowadzenie
-    Instrukcja pobierania (klonowania) projektu ze zdalnego repozytorium :
-     https://goo.gl/kYzbEQ  plik: SDA01B_Clone GIT project.mp4
-
-f)  Instrukcja wysyłania (klonowania) projektu DO zdalnego repozytorium Git:
-     https://goo.gl/jEpGdA  plik: SDA01C_Local project to remote Git repo.mp4
+3. Zadania Interfaces       Slajd: 152

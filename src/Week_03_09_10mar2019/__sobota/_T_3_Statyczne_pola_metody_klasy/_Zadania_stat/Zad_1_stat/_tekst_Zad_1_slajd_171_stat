@@ -1,0 +1,4 @@
+1. Napisz własną klasę Math, która będzie posiadać metody statyczne:
+   add, subtract, multiply, divide, min, max, pow,
+   gdzie każda z nich będzie przyjmowała dwa parametry liczbowe.
+   Dla każdej z metod utwórz przykład użycia.

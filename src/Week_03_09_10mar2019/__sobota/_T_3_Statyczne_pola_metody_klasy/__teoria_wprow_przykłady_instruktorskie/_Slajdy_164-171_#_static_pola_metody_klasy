@@ -1,0 +1,14 @@
+1. Pola i metody statyczne
+
+a) Inicjacja pól obiektu
+
+b) Bloki inicjacyjne
+    Pełny kod: pl.sda.stat.Vehicle
+
+c) Klasy wewnętrzne
+    Przykłady w kodzie: pl.sda.stat.StaticExample
+
+2. Argumenty metody main
+    Pełny kod: pl.sda.stat.MainArgs
+
+3. Zadania   #stat      Slajd: 171

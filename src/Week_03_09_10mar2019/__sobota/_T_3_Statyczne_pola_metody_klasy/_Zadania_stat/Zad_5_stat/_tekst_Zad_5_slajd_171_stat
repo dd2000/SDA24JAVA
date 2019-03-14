@@ -1,0 +1,7 @@
+
+5. Stwórz klasę Product z polami: id, name, price.
+   Dodaj konstruktor z polami name i price, gettery i metodę toString().
+   Pole id powinno być inicjalizowane w bloku incjacyjnym
+   i powinno mieć wartość pobieraną ze statycznego pola counter,
+   które zlicza wszystkie stworzone produkty - liczenie powinno się zaczynać od liczby 100.
+

@@ -1,0 +1,5 @@
+
+7. (*) Dodaj do klasy Product stałą DISCOUNT.
+   W statycznym bloku incjacyjnym ustaw wartość pola DISCOUNT na 0.3 (30%),
+   jeżeli dzisiaj jest poniedziałek i 0.0 w pozostałych przypadkach.
+   Uwzględnij rabat przy wyliczaniu ceny.
