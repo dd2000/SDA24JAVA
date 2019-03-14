@@ -1,0 +1,4 @@
+3. Dodaj do klasy Food metodę abstrakcyjną getType(),
+   która zwróci rodzaj jedzenia w postaci enuma (utwórz enum).
+   W klasach Meat i Vegetable zaimplementuj nową metodę.
+
