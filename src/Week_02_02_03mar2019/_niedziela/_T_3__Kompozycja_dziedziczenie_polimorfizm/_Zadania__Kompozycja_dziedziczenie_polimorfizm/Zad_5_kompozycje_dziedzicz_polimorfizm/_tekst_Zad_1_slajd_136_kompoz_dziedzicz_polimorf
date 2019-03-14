@@ -1,0 +1,10 @@
+5. (*) Zbuduj program, który wykorzysta całą zdobytą dotąd wiedzę,
+   a który będzie pozwalał stworzyć linię produkcyjną samochodów.
+   Zbuduj odpowiednią strukturę projektu oraz API,
+   które w klasie budującej samochód pozwalać będzie komponować dowolny rodzaj pojazdu.
+   Napisz także generator, który mógłby zostać użyty na stronie konfiguratora pojazdów dowolnej marki,
+   a który po uruchomieniu programu tworzyć będzie zadaną ilość losowych konfiguracji samochodów
+   i przetrzymywać będzie je w tablicy o zadanej wielkości.
+   Zadbaj by końcowy użytkownik miał możliwość dowolnej personalizacji swojego wymarzonego pojazdu.
+   Wykorzystaj enumy do skomponowania słowników pozwalających wybierać wiele różnych opcji.
+   Zadbaj o ciekawy interfejs tekstowy swojego programu.

@@ -1,0 +1,4 @@
+package Week_02_02_03mar2019._niedziela._T_3__Kompozycja_dziedziczenie_polimorfizm._Zadania__Kompozycja_dziedziczenie_polimorfizm;
+
+public class _my {
+}

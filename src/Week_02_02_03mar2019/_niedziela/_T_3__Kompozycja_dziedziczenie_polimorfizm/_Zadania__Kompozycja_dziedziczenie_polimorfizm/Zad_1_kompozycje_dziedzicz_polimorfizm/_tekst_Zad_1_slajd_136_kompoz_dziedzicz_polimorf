@@ -1,0 +1,29 @@
+1. Rozwiń przykład kompozycji w oparciu o klasę Car - dodaj klasę Entertainment,
+   która zarządzać będzie systemem rozrywki w Twoim samochodzie,
+   a następnie zadbaj o to, by tworząc obiekt typu Car konieczne było podanie obiektu typu Entertainment.
+   Klasa Car powinna wykorzystywać metody dostępne w klasie Entertainment.
+
+2. Utwórz klasę Tool, która będzie reprezentować narzędzia do kupienia w sklepie.
+   Każde narzędzie powinno mieć swój model i cenę.
+   Dodatkowo utwórz klasy: Hammer i Saw, które będą dziedziczyć po klasie Tool.
+   Klasa Hammer powinna mieć dodatkowe pole z wagą młotka, a klas Saw z długością piły.
+   Utwórz klasę ToolsShop w której utworzysz kilka narzędzi i wyświetlisz ich ceny.
+
+3. Dodaj do klasy Tool metodę która zwraca opis narzędzia (model + cena).
+   Dodatkowo klasy Hammer i Saw powinny rozszerzać opis o swoje unikatowe cechy.
+
+4. Utwórz klasę ShoppingCart, która będzie reprezentować koszyk z zakupami.
+   Wewnątrz klasy dodaj pole ze zmienną tablicową która będzie przechowywać wybrane produkty
+   (powiedzmy, że maksymalnie można zakupić 10 narzędzi).
+   Dodaj metody do dodawania narzędzi, do wyświetlania ich listy i metodę która zwróci łączną sumę zakupów.
+
+5. (*) Zbuduj program, który wykorzysta całą zdobytą dotąd wiedzę,
+   a który będzie pozwalał stworzyć linię produkcyjną samochodów.
+   Zbuduj odpowiednią strukturę projektu oraz API,
+   które w klasie budującej samochód pozwalać będzie komponować dowolny rodzaj pojazdu.
+   Napisz także generator, który mógłby zostać użyty na stronie konfiguratora pojazdów dowolnej marki,
+   a który po uruchomieniu programu tworzyć będzie zadaną ilość losowych konfiguracji samochodów
+   i przetrzymywać będzie je w tablicy o zadanej wielkości.
+   Zadbaj by końcowy użytkownik miał możliwość dowolnej personalizacji swojego wymarzonego pojazdu.
+   Wykorzystaj enumy do skomponowania słowników pozwalających wybierać wiele różnych opcji.
+   Zadbaj o ciekawy interfejs tekstowy swojego programu.

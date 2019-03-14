@@ -1,0 +1,3 @@
+3. Dodaj do klasy Tool metodę która zwraca opis narzędzia (model + cena).
+   Dodatkowo klasy Hammer i Saw powinny rozszerzać opis o swoje unikatowe cechy.
+
