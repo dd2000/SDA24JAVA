@@ -1,0 +1,4 @@
+4. Utwórz klasę, która pozwoli ustawić parę obiektów różnego typu.
+   Sygnatura klasy powinna zawierać dwa generyki,
+   a następnie konstruktor pozwalający zainicjalizować obiekt klasy z dwoma instancjami obiektów.
+

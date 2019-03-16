@@ -1,0 +1,5 @@
+2. Stwórz metodę, która jako parametry przyjmie: kolekcję (Set)
+   zawierającą zestaw fraz oraz pojedynczy wyraz którego szukamy w kolekcji.
+   Metoda zwróci ilość wystąpień szukanego wyrazu w podanej kolekcji.
+   Weź pod uwagę sytuację gdy szukany wyraz jest częścią frazy z kolekcji.
+

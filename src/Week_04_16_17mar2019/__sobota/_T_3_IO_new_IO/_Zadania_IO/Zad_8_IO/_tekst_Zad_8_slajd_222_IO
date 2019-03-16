@@ -1,0 +1,5 @@
+
+8. (*) Napisz kod, który przeanalizuje podany plik tekstowy
+   oraz utworzy statystykę występowania poszczególnych słów w odczytanym tekście.
+   Zadbaj o odpowiednią obsługę wyjątków. Daj możliwość podania separatora poszczególnych słów.
+

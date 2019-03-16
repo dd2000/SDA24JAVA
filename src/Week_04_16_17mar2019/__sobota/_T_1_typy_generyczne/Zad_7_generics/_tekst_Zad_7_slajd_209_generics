@@ -1,0 +1,3 @@
+7. (*) Utwórz klasę Forest która będzie zawierała zbiór różnego rodzajów drzew (liściastych i iglastych
+   - dodaj odpowiednie klasy). Dodaj metody, które zwrócą wszystkie drzewa, tylko liściaste albo tylko iglaste.
+    Dodaj metodę, która zwróci drzewa starsze niż podany parametr.

@@ -1,0 +1,5 @@
+
+3. Z mapy stworzonej w pkt 1 wyciągnij wszystkie klucze,
+   które mają wartość mniejszą od zera i dodaj je do nowej listy obiektów Integer.
+   Następnie usuń z mapy wszystkie wartości, których klucze znajdują się w liście.
+   Wypisz wszystkie pozostałe wartości mapy (klucz - wartość) na ekran.

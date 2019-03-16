@@ -1,0 +1,5 @@
+1. (*) W dowolnym wybranym przez Ciebie katalogu stwórz za pomocą klasy java.io.File
+   dwa podkatalogi i dwa pliki.
+   W każdym z podkatalogów stwórz kolejne dwa podkatalogi i dwa kolejne pliki.
+   Poćwicz operacje na plikach: przenoszenie, usuwanie, wyświetlanie, kopiowanie.
+

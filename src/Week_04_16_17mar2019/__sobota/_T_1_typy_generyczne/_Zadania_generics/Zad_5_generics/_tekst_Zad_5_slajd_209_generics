@@ -1,0 +1,4 @@
+5. Stwórz klasę, która będzie zawierała mapę gdzie klucz = String, a wartość = Integer.
+   Klasa powinna mieć metody: addWord() i getWordCount() - które dodadzą słowo
+   i zwrócą ilość wcześniej dodanych słów lub zero jeżeli słowo nie występuje.
+

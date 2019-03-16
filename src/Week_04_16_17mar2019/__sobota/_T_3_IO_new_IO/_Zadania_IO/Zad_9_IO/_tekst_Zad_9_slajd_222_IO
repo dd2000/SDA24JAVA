@@ -1,0 +1,5 @@
+
+9. (*) Napisz kod, który stworzy:
+    a) 10 katalogów o nazwach 0, 100, 200, …, 900.
+    b) w każdym z katalogów stwórz 10 plików z nazwami odpowiadającymi poszczególnym dziesiątkom liczb - czyli np. w katalogu 0 będą się znajdować pliki: 1-10.txt, 11-20.txt, … a w katalogu 200: 200-210.txt, 211-220.txt.
+    c) w każdym pliku zapisz sumę liczb z zakresu który wskazuje nazwa pliku, np. w pliku 0-10.txt powinna się pojawić liczba: 55.

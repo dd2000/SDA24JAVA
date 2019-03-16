@@ -1,0 +1,3 @@
+3. Zmień metodę z pkt.1 tak żeby przyjmowała listę dowolnych obiektów dziedziczących po klasie Number.
+   Sprawdź czy metoda będzie działała z: List<Double> i List<Integer>
+

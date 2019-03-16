@@ -1,0 +1,7 @@
+
+4. Stwórz metodę, która jako parametr przyjmie listę obiektów pl.sda.collections.Product
+   i zwróci mapę gdzie kluczem będzie id produktu a wartością obiekt klasy Product.
+   a) zmień implementację mapy tak żeby kolejność produktów w mapie
+      odpowiadała kolejności z listy wejściowej
+   b) zmień implementację mapy tak żeby kolejność produktów w mapie
+   odpowiadała kolejności idków produktów
