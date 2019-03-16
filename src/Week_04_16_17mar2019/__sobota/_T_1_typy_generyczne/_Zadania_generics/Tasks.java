@@ -14,11 +14,13 @@ public class Tasks {
         Map<Integer, String> genericMap = genericMap();
 
         //#3
-        //List<Number> numbers = doublesToNumbers(doubles);
-        //System.out.println("numbers = " + numbers);
+        List<Number> numbers = doublesToNumbers(doubles);
+        System.out.println("\n Polecenie #3");
+        System.out.println("numbers = " + numbers);
 
         //#4
-        //NumbersBox numbersBox = numbersToNumbersBox(numbers);
+        System.out.println("\n Polecenie #4");
+        NumbersBox numbersBox = numbersToNumbersBox(numbers);
 
         //#5
         //NumbersBox<Double> doubleNumbersBox = boxOfDoubles(doubles);
@@ -65,7 +67,14 @@ public class Tasks {
      * Zwróć nową listę jako wynik metody.
      */
     private static List<Number> doublesToNumbers(Set<Double> doubles) {
-        return null;
+
+        List<Number> lista = new ArrayList<>();
+        for (Double aDouble : doubles) {
+            if (aDouble != null) {  // gdy nie jest null-em, dodaj aDouble do listy
+                lista.add(aDouble);
+            }
+        }  //for
+        return lista;  // zwróć utworzoną listę
     }
 
     /**
@@ -79,7 +88,38 @@ public class Tasks {
      * Zwróć obiekt klasy NumbersBox jako wynik tej metody.
      */
     private static NumbersBox numbersToNumbersBox(List<Number> numbers) {
-        return null;
+        public class NumbersBox<T> {  // klasa generic
+            private List<T> items;
+
+            public  NumbersBox(List<T> items){
+                this.items = items;
+            } // konstruktor
+
+        // metoda sprawdza, czy lista jest pusta
+            public Boolean isEmptyList(items){
+                if (items.size()==0) {
+                    return true;
+                }
+                else {
+                    return false;
+                }  //if
+            }  //isEmtyList
+
+            // metoda pobiera pierwszy element listy
+            public List getFirst(items){
+                return items[0];
+            } // getFirst()
+
+            public int getFirstAsInt(items){
+                return (int) items[0];
+            } // getFirstAsInt()
+
+
+        } // clas wewn. NumbersBox
+
+        NumbersBox<Number> numbersBox = new NumbersBox<>(numbers);  // klasa zewnetrzna NumberBox
+
+        return numbersBox;
     }
 
     /**

@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-public class Tasks {
+public class Tasks_my {
 
     public static void main(String[] args) {
         //#1
@@ -54,7 +54,7 @@ public class Tasks {
 
     /**
      * 4. Stwórz klasę (zwykłą lub wewnętrzną) która będzie przechowywać listę obiektów klasy Number.
-     * Dodaje metody które:
+     * Dodaj metody do klasy NumbersBox które:
      * - sprawdzą czy lista jest pusta
      * - pobierze pierwszy element listy
      * - pobierze pierwszy element listy jako int
