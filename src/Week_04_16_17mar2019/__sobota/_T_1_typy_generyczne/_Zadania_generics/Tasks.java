@@ -1,17 +1,17 @@
 package Week_04_16_17mar2019.__sobota._T_1_typy_generyczne._Zadania_generics;
 
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 
 public class Tasks {
 
     public static void main(String[] args) {
-        //#1
+        //polecenie #1
+        System.out.println("\n Polecenie #1");
         Set<Double> doubles = setOfDoubles();
 
         //#2
-        //Map<Integer, String> genericMap = genericMap();
+        System.out.println("\n Polecenie #2");
+        Map<Integer, String> genericMap = genericMap();
 
         //#3
         //List<Number> numbers = doublesToNumbers(doubles);
@@ -30,7 +30,16 @@ public class Tasks {
      * Metoda powinna zwrócić stworzoną kolekcję.
      */
     private static Set<Double> setOfDoubles() {
-        return null;
+        Set<Double> doubleSet = new HashSet<>();
+        doubleSet.add(1.2);
+        doubleSet.add(0.2);
+        doubleSet.add(4.2);
+        doubleSet.add(-3.2);
+
+        for (Double aDouble : doubleSet) {  // polecenie iter w menu kontekstowym
+            System.out.println(aDouble);
+        }
+        return doubleSet;
     }
 
     /**
@@ -40,7 +49,14 @@ public class Tasks {
      * Metoda powinna zwrócić stworzoną mapę.
      */
     private static Map<Integer, String> genericMap() {
-        return null;
+        Map<Integer, String> sampleMap = new HashMap<>();
+        sampleMap.put(1, "one");
+        sampleMap.put(2, "two");
+        sampleMap.put(3, "three");
+        for (Integer key : sampleMap.keySet()) {   // Shift+F6 pozwala refraktorem zmienić nazwęzmiennej w bloku
+            System.out.println("key: "+key+" "+sampleMap.get(key) );
+        }
+        return sampleMap;
     }
 
     /**
